@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#test
 # Configuration
 DB_USER="your_database_username"
 DB_PASSWORD="your_database_password"
